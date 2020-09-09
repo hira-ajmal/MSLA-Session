@@ -1,2 +1,2 @@
 # MSLA-Session01 task
-#design of to-do app
+#design of toodo app
