@@ -1,2 +1,2 @@
-# MSLA-Session01 task
-#design of to-do app
+# MSLA-GitHub session task01
+#uploaded designed of to-do app
